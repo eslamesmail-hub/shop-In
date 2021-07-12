@@ -1,6 +1,8 @@
 # shop_in  
 
-Flutter Bloc, Dio, Shared Preferences, Flutter Toast, Conditional Builder, Flutter Svg, Carousel Slider, Smooth Page Indicator, Flutter Launcher Icon 
+ Flutter e-Commerce application using bloc, dio, and shared preferences.    
+
+Onboarding screens with skip button. Login and register screens with form validation and shared preferences to save user’s token to see if he/she logged before so the app navigates directly to the home screen. Beautiful home screen with search bar, slider, categories, and products. The bottom navigation bar moves fast between screens. 2 screens one for categories and one for favorites. And finally, the settings screen so you can change your data or sign out.   
 
 Run Record: https://drive.google.com/file/d/1MIbOfQcdqbVyAgb58xY6ZNXi-m8slIY6/view?usp=sharing  
  
