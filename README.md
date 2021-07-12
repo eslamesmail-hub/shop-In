@@ -1,7 +1,8 @@
 # shop_in  
 
-
 Flutter Bloc, Dio, Shared Preferences, Flutter Toast, Conditional Builder, Flutter Svg, Carousel Slider, Smooth Page Indicator, Flutter Launcher Icon 
+
+Run Record: https://drive.google.com/file/d/1MIbOfQcdqbVyAgb58xY6ZNXi-m8slIY6/view?usp=sharing  
  
 
 ![1](https://user-images.githubusercontent.com/70852067/125277369-a0ffcd00-e311-11eb-8759-287af9d55ea4.png)
