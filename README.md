@@ -1,7 +1,8 @@
 # shop_in  
 
-A new Flutter e-Commerce application using Bloc, Dio, and Shared Preferences.  
-Flutter Bloc, Dio, Shared Preferences, Flutter Toast, Conditional Builder, Flutter Svg, Carousel Slider, Smooth Page Indicator, Flutter Launcher Icon  
+
+Flutter Bloc, Dio, Shared Preferences, Flutter Toast, Conditional Builder, Flutter Svg, Carousel Slider, Smooth Page Indicator, Flutter Launcher Icon 
+ 
 
 ![1](https://user-images.githubusercontent.com/70852067/125277369-a0ffcd00-e311-11eb-8759-287af9d55ea4.png)
 ![2](https://user-images.githubusercontent.com/70852067/125277386-a52bea80-e311-11eb-9167-b86e805d80ea.png)
