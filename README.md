@@ -1,6 +1,6 @@
 # shop_in  
 
- Flutter e-Commerce application using bloc, dio, and shared preferences.    
+ Flutter e-Commerce application using APIs, Bloc, Dio, and Shared preferences.    
 
 Onboarding screens with skip button. Login and register screens with form validation and shared preferences to save user’s token to see if he/she logged before so the app navigates directly to the home screen. Beautiful home screen with search bar, slider, categories, and products. The bottom navigation bar moves fast between screens. 2 screens one for categories and one for favorites. And finally, the settings screen so you can change your data or sign out.   
 
